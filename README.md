@@ -10,9 +10,6 @@ This game is one of the Youtube tutorials where game was created with Vanilla Ja
 
 ![Hounting-fish](hounting-fish.jpg.png)
 
-Site published at: https://dkeparute.github.io/JavaScript-game-fish/
-
-
 ## Project Objectives
 - JavaScript
 - HTML
